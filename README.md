@@ -22,6 +22,6 @@ A machine learning project that predicts whether a credit card application will 
 - Jupyter Notebook
 
 ## Results (random forest classifier)
-              precision    recall  f1-score   support
-weighted avg       0.94      0.94      0.94       306
+precision    recall  f1-score   support
+0.94      0.94      0.94       306      weighted avg       
 
